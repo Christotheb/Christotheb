@@ -1,0 +1,3 @@
+-  Hi, I’m @Christotheb
+-  I’m interested in automation, IoT and data.
+-  I’m currently starting to learn python, with an aim to develop complementary backend knowledge.
